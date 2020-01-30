@@ -1127,8 +1127,13 @@
 2c0f:ebc1::/32
 2c0f:ebc2::/31
 2c0f:ebc4::/30
-2c0f:ebc8::/29
-2c0f:ebd0::/28
+2c0f:ebc9::/32
+2c0f:ebca::/31
+2c0f:ebcc::/30
+2c0f:ebd1::/32
+2c0f:ebd2::/31
+2c0f:ebd4::/30
+2c0f:ebd8::/29
 2c0f:ebe0::/27
 2c0f:ec01::/32
 2c0f:ec02::/31
