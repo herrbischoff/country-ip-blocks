@@ -8,4 +8,4 @@ bulk.
 * Deduplicated and subnets merged for efficiency.
 * Simplified and sorted by country TLD.
 * CIDR notation.
-* Updated every 6 hours, commits only appear when there are changes.
+* Updated hourly, commits only appear when there are changes.
