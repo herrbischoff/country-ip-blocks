@@ -1139,7 +1139,11 @@
 2c0f:ebd9::/32
 2c0f:ebda::/31
 2c0f:ebdc::/30
-2c0f:ebe0::/27
+2c0f:ebe1::/32
+2c0f:ebe2::/31
+2c0f:ebe4::/30
+2c0f:ebe8::/29
+2c0f:ebf0::/28
 2c0f:ec01::/32
 2c0f:ec02::/31
 2c0f:ec04::/30
