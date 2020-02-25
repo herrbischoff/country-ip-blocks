@@ -1148,7 +1148,9 @@
 2c0f:ebf1::/32
 2c0f:ebf2::/31
 2c0f:ebf4::/30
-2c0f:ebf8::/29
+2c0f:ebf9::/32
+2c0f:ebfa::/31
+2c0f:ebfc::/30
 2c0f:ec01::/32
 2c0f:ec02::/31
 2c0f:ec04::/30
