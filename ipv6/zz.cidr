@@ -2836,9 +2836,7 @@
 2c0f:fc99::/32
 2c0f:fc9a::/31
 2c0f:fc9c::/30
-2c0f:fca1::/32
-2c0f:fca2::/31
-2c0f:fca4::/30
+2c0f:fca0::/29
 2c0f:fca9::/32
 2c0f:fcaa::/31
 2c0f:fcac::/30
