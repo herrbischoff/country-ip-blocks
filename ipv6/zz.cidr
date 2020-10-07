@@ -1653,9 +1653,7 @@
 2c0f:eeb9::/32
 2c0f:eeba::/31
 2c0f:eebc::/30
-2c0f:eec1::/32
-2c0f:eec2::/31
-2c0f:eec4::/30
+2c0f:eec0::/29
 2c0f:eec9::/32
 2c0f:eeca::/31
 2c0f:eecc::/30
@@ -2679,9 +2677,7 @@
 2c0f:fa69::/32
 2c0f:fa6a::/31
 2c0f:fa6c::/30
-2c0f:fa71::/32
-2c0f:fa72::/31
-2c0f:fa74::/30
+2c0f:fa70::/29
 2c0f:fa79::/32
 2c0f:fa7a::/31
 2c0f:fa7c::/30
