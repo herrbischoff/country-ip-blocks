@@ -1653,9 +1653,7 @@
 2c0f:edc9::/32
 2c0f:edca::/31
 2c0f:edcc::/30
-2c0f:edd1::/32
-2c0f:edd2::/31
-2c0f:edd4::/30
+2c0f:edd0::/29
 2c0f:edd9::/32
 2c0f:edda::/31
 2c0f:eddc::/30
