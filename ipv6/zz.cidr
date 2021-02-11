@@ -3102,9 +3102,7 @@
 2c0f:fcc9::/32
 2c0f:fcca::/31
 2c0f:fccc::/30
-2c0f:fcd1::/32
-2c0f:fcd2::/31
-2c0f:fcd4::/30
+2c0f:fcd0::/29
 2c0f:fcd9::/32
 2c0f:fcda::/31
 2c0f:fcdc::/30
