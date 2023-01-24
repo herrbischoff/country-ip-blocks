@@ -3557,9 +3557,7 @@
 2c0f:ecc9::/32
 2c0f:ecca::/31
 2c0f:eccc::/30
-2c0f:ecd1::/32
-2c0f:ecd2::/31
-2c0f:ecd4::/30
+2c0f:ecd0::/29
 2c0f:ecd9::/32
 2c0f:ecda::/31
 2c0f:ecdc::/30
