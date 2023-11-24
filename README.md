@@ -28,3 +28,8 @@ This projects downloads the information directly from the local RIRs and is as
 accurate as the data provided. More often than not, the country attached to an
 IP range is the one the registering company is located in. There is no reliable
 way to determine the physical location of any IP without tracing it separately.
+
+For an alternative source, please see the companion repository which is likely
+more accurate with regards to the expectations of many users.
+
+<https://git.herrbischoff.com/country-ip-blocks-alternative/>
